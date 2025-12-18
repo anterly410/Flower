@@ -1,7 +1,7 @@
 const products=[
 {name:"Букет троянд",price:800,image:"images/rose.jpg",badge:"Хіт"},
-{name:"Тюльпани",price:600,image:"images/tulip.jpg",badge:"Весна"},
-{name:"Подарунковий набір",price:500,image:"images/gift.jpg",badge:"Новинка"}
+{name:"Тюльпани",price:600,image:"images/tulip.jpg.webp",badge:"Весна"},
+{name:"Подарунковий набір",price:500,image:"images/gift.jpg.webp",badge:"Новинка"}
 ];
 
 let total=0;
