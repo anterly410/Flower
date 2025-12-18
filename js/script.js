@@ -1,5 +1,5 @@
 const products=[
-{name:"Букет троянд",price:800,image:"images/rose.svg",badge:"Хіт"},
+{name:"Букет троянд",price:800,image:"images/rose.jpg",badge:"Хіт"},
 {name:"Тюльпани",price:600,image:"images/tulip.svg",badge:"Весна"},
 {name:"Подарунковий набір",price:500,image:"images/gift.svg",badge:"Новинка"}
 ];
